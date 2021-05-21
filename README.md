@@ -1,4 +1,4 @@
-syntax-highlighting xxh plugin for xxh-shell-zsh.
+autosuggestions xxh plugin for xxh-shell-zsh.
 
 ## INSTALL
 
